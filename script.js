@@ -1,4 +1,4 @@
-<script>
+
         //Smooth scroll helper
         function scrollToSection(id) {
             const el = document.getElementById(id);
@@ -140,4 +140,5 @@
         })
 
 
-    </script>
+
+ 
